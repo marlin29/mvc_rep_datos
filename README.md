@@ -1,3 +1,4 @@
+Modelo Vista Controlador
 El modelo de representación de datos se refiere a la forma en que se estructuran y organizan los datos en un sistema informático para su almacenamiento, procesamiento y recuperación. 
 MVC (Modelo-Vista-Controlador) es un patrón en el diseño de software comúnmente utilizado para implementar interfaces de usuario, datos y lógica de control. Enfatiza una separación entre la lógica de negocios y su visualización. Esta "separación de preocupaciones" proporciona una mejor división del trabajo y una mejora de mantenimiento. Algunos otros patrones de diseño se basan en MVC, como MVVM (Modelo-Vista-modelo de vista), MVP (Modelo-Vista-Presentador) y MVW (Modelo-Vista-Whatever).
 
